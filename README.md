@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is Rob Nichols - I am a full stack software developer working largely in the .NET stack with Angular for the front-end, and SQL Server for the database.
+My name is Rob Nichols - I am a full stack software developer working largely in the .NET stack with Angular for the front-end, and SQL Server for the database. I have looked at and tried some tutorials with other technologies and database solutions. While I do not have a great amount of experience with those other technologies, I have enjoyed learning and working with them.
 
 - 🌱 I enjoy learning! Whether it is within the .NET environment or new areas, I enjoy finding solutions that work best to resolve challenges.
 - I have been on the software development learning path since about 2014, and hope to continue this path as long as I can.
