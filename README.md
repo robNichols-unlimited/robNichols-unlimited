@@ -1,8 +1,7 @@
 ### Hello! 👋
-My name is Rob Nichols - I am a full stack software developer working largely in the .NET stack with Angular for the front-end, and SQL Server for the database. I have looked at and tried some tutorials with other technologies and database solutions. While I do not have a great amount of experience with those other technologies, I have enjoyed learning and working with them.
+My name is Rob Nichols - I have been a full stack software developer since 2014. I have worked with many languages and technologies, I enjoy .NET C#, Angular and relational databases. Some of the other languages I've worked with include vanilla JavaScript, TypeScript, Python and NoSQL databases like MongoDB. I have worked with RabbitMQ and Kafka messaging queues and most frequently in the microservices patterns. Though I have had some exposure to TDD and Service Oriented Architecture. I enjoy learning and improving my understanding of these technologies. I am also happy to share what I know with others.
 
 - 🌱 I enjoy learning! Whether it is within the .NET environment or new areas, I enjoy finding solutions that work best to resolve challenges.
-- I have been on the software development learning path since about 2014, and hope to continue this path as long as I can.
 <br>
 
 ### Connect & Contact
